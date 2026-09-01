@@ -393,15 +393,21 @@ Campus Cornélio Procópio
 
 ## 👩‍💻 Equipe
 
-| Integrante | Responsabilidades |
-|---|---|
-| Douglas | A definir |
-| Mariana | A definir |
-| Maurício | A definir |
-| Sabrina | A definir |
-| Thiago  | A definir |
-
-As responsabilidades serão definidas após o levantamento de requisitos e planejamento inicial do projeto.
+| Etapa / Macroárea | Área / Módulo | Atividades Principais | Responsáveis |
+| :--- | :--- | :--- | :--- |
+| **1. Planejamento & Gestão** | Gestão e Cronograma | Prazos, divisão semanal, escopo e requisitos | Sabrina e Mariana |
+| **1. Planejamento & Gestão** | Comunicação com Orientador | Validações, feedbacks e alinhamento de escopo | Mariana |
+| **1. Planejamento & Gestão** | Documentação Técnica | Documentação Técnica | Sabrina e Maurício |
+| **1. Planejamento & Gestão** | Documentação Acadêmica | Documentação Acadêmica | Mariana |
+| **2. Design & Modelagem** | Prototipagem | Prototipação do Sistema | Mariana e Maurício |
+| **2. Design & Modelagem** | Modelagem | Diagramas UML | Maurício |
+| **2. Design & Modelagem** | Modelagem | Modelagem de Banco de Dados | Thiago |
+| **3. Conteúdo Pedagógico** | Conteúdo Pedagógico | Slides de IA, roteiros e questões dos quizzes | Sabrina e Mariana |
+| **4. Desenvolvimento & Infraestrutura** | Frontend do Aluno (Player & Quizzes) | Telas de aprendizagem, navegação nos módulos e layout | Mariana e Sabrina |
+| **4. Desenvolvimento & Infraestrutura** | Backend & Regras Core | APIs de progresso, autenticação e certificados com validação | Thiago e Doug |
+| **4. Desenvolvimento & Infraestrutura** | Área Administrativa & Integração | Cadastro de conteúdo, upload de mídias e deploy | Doug e Thiago |
+| **5. Qualidade & Validação** | Plano e Cenário de Teste | Correções no desenvolvimento e Especificação de casos de teste | Maurício |
+| **5. Qualidade & Validação** | Validação de Usabilidade | Avaliação da plataforma com o perfil docente (tempo e facilidade de uso) | Todos |
 
 ---
 
